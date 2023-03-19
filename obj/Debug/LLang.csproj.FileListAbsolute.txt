@@ -1,0 +1,8 @@
+C:\Users\docst\Desktop\SwE\C#\LLang\bin\Debug\LLang.exe.config
+C:\Users\docst\Desktop\SwE\C#\LLang\bin\Debug\LLang.exe
+C:\Users\docst\Desktop\SwE\C#\LLang\bin\Debug\LLang.pdb
+C:\Users\docst\Desktop\SwE\C#\LLang\obj\Debug\LLang.csproj.AssemblyReference.cache
+C:\Users\docst\Desktop\SwE\C#\LLang\obj\Debug\LLang.csproj.SuggestedBindingRedirects.cache
+C:\Users\docst\Desktop\SwE\C#\LLang\obj\Debug\LLang.csproj.CoreCompileInputs.cache
+C:\Users\docst\Desktop\SwE\C#\LLang\obj\Debug\LLang.exe
+C:\Users\docst\Desktop\SwE\C#\LLang\obj\Debug\LLang.pdb
